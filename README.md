@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌱 I’m currently learning about cybersecurity.
+
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=WAzeeb&gstats=show&style=midnight)
+
+
+
 <!--
 **WAzeeb/WAzeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
