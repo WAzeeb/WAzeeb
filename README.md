@@ -3,7 +3,7 @@
 🌱 I’m currently learning about cybersecurity.
 
 ### Root Me
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=WAzeeb&gstats=show&style=midnight)
+[![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=WAzeeb&gstats=show&style=midnight)](https://www.root-me.org/WAzeeb)
 
 
 ### Try Hack Me
