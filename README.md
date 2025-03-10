@@ -2,12 +2,20 @@
 
 🌱 I’m currently learning about cybersecurity.
 
-### Root Me
+### RootMe
 [![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=WAzeeb&gstats=show&style=midnight)](https://www.root-me.org/WAzeeb)
 
 
-### Try Hack Me
-[![THM stats](https://tryhackme-badges.s3.amazonaws.com/WAzeeb.png)](https://tryhackme.com/p/WAzeeb)
+### TryHackMe
+[![THM stats](https://tryhackme-badges.s3.amazonaws.com/WAzeeb.png?)](https://tryhackme.com/p/WAzeeb)
+
+
+### CryptoHack
+[https://cryptohack.org/user/WAzeeb](https://cryptohack.org/user/WAzeeb)
+<a href="https://cryptohack.org/user/WAzeeb"><img src="https://cryptohack.org/static/img/main.png" align="left" height="128"></a>
+<br clear="all"/>
+
+
 
 <!--
 **WAzeeb/WAzeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
